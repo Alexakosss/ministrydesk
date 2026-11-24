@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 280" width="920" height="280" role="img" aria-label="MinistryDesk horizontal logo">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5A7DB7"/>
+      <stop offset="1" stop-color="#3E5C8F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon -->
+  <g transform="translate(44,40) scale(0.390625)">
+    <rect width="512" height="512" rx="116" fill="url(#tile)"/>
+    <rect x="138" y="100" width="206" height="262" rx="26" fill="#FFFFFF"/>
+    <path d="M298 100H318A26 26 0 0 1 344 126V146Z" fill="#E6EEF8"/>
+    <rect x="180" y="186" width="122" height="16" rx="8" fill="#D6E3F3"/>
+    <rect x="180" y="224" width="122" height="16" rx="8" fill="#D6E3F3"/>
+    <rect x="180" y="262" width="80" height="16" rx="8" fill="#D6E3F3"/>
+    <circle cx="352" cy="364" r="66" fill="#FFFFFF"/>
+    <circle cx="352" cy="364" r="52" fill="#059669"/>
+    <path d="M330 364l16 17 28-32" fill="none" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="292" y="142"
+        font-family="Segoe UI, Segoe UI Variable, Arial, sans-serif"
+        font-size="64"
+        fill="#16233A"
+        letter-spacing="-0.5">Ministry<tspan fill="#4A6DA7" font-weight="700">Desk</tspan></text>
+
+  <!-- Taglines -->
+  <text x="294" y="182"
+        font-family="Segoe UI, Segoe UI Variable, Arial, sans-serif"
+        font-size="18"
+        fill="#5E7085">Congregation service records</text>
+  <text x="294" y="212"
+        font-family="Segoe UI, Segoe UI Variable, Arial, sans-serif"
+        font-size="17"
+        fill="#8DA0B5">Ժողովի ծառայության հաշվետվություններ</text>
+</svg>
